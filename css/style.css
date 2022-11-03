@@ -1,0 +1,23 @@
+
+.cook { 
+        font-size: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        padding: 200px;
+}
+.title1 { 
+        font-size: 30px ;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: left;
+}
+.title2 {
+    font-size: 30px;
+        text-align: right;
+        font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+header {
+        background-color: #ffffff;
+        background-image: url("../img/wave\ \(1\).svg");
+        background-repeat: no-repeat;
+}
